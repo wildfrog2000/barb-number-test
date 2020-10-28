@@ -38,7 +38,6 @@ def startTest():
         print("That's not an integer!")
         startTest()
 
-
     val = 0
     if int(ans) == answer:
         val = 1
